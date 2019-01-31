@@ -1,2 +1,0 @@
-# AREC_TEST
-TestRepository
